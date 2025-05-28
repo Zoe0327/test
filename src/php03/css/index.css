@@ -1,14 +1,14 @@
 .quiz__content {
     margin: 0 auto;
-    padding: 60px 15px;
+    padding: 50px 15px;
     max-width: 1230px;
 }
 .question {
     margin: 0 auto;
     padding: 10px 20px;
     width: 550px;
-    background: #000;
     border-radius: 3px;
+    background: #000;
     text-align: center;
 }
 .question__text {
@@ -26,8 +26,8 @@
 }
 .quiz-form__group {
     margin-bottom: 5px;
-    border: 1px solid #ddd;
     border-radius: 3px;
+    border: 1px solid #ddd;
 }
 .quiz-form__radio {
     display: none;
